@@ -1,4 +1,4 @@
-package com.hosseinmohammadkarimi.loginvalidation.utils
+package com.hosseinmohammadkarimi.loginvalidation.presentation.utils
 
 sealed class UIEvent {
     data class SnackbarShow(
